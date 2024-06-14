@@ -1,4 +1,4 @@
-# EverythingonLinearRegression
+# Everything on Linear Regression
 
 Hello everyone,
 
